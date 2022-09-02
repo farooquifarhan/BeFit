@@ -1,4 +1,4 @@
-# BeFit
+# BeFit 
 Aim:-To help Sunita Sharma (65+ years
 old) to live a healthier and better life?
 
@@ -22,9 +22,12 @@ More things to be added in this:-
 
 Login/SingUp:-Login and signup page will be added to store the details and to keep there records with added backend,
 
-To store the records of patients -Doctors, reports and apoinment details.
+To store the records of Patients-Doctors, reports and appoinment details.
 
-Daily Rountine Task will be stored in database to remind them and make them active
+Daily Rountine Task will be stored in database to remind ,perform them and make them active
+
+                                  *Link:-https://farooquifarhan.github.io/BeFit/*
+                                  
 
 Home Page:-
 ![Home](https://user-images.githubusercontent.com/85235589/188233523-e43ccf6c-8eab-4bd7-9d5b-7327264d00f8.jpg)
